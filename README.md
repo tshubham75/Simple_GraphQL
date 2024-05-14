@@ -17,3 +17,7 @@ Pre-generated Data: Includes pre-generated data for Taylor Swift's songs.
 Simple Setup: Easy setup with Rails new project and GraphQL gem.
 
 Flexible and Expandable: Designed to be flexible and expandable for adding more features and data.# Simple_GraphQL
+
+
+https://github.com/tshuham75/Simple_GraphQL/assets/142473715/06f087d0-73c6-4c4f-887d-bb7152b11357
+
